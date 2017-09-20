@@ -1,0 +1,7 @@
+<map id="spacePig::GameDisplay::clearBackground" name="spacePig::GameDisplay::clearBackground">
+<area shape="rect" id="node2" href="$classspacePig_1_1GameDisplay.html#a438fc209ee4121ed3c0d6b7e4a392a9d" title="Create a game display with specified size and a player. " alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$classspacePig_1_1GameDisplay.html#a45e4b2b0736104d607fb723fef04e030" title="Refresh the display. " alt="" coords="216,71,379,112"/>
+<area shape="rect" id="node4" href="$classspacePig_1_1GameDisplay.html#a68423786d54aaaa8133eb2208909fad1" title="handles user events including keyboard and mouse use. " alt="" coords="427,41,589,83"/>
+<area shape="rect" id="node5" href="$classspacePig_1_1GameDisplay.html#a31a0188f8a80e2481d02c33bdb832825" title="plays through the game. " alt="" coords="637,71,800,112"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main program to get the game running. " alt="" coords="848,78,899,105"/>
+</map>

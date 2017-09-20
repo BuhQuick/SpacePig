@@ -1,0 +1,18 @@
+<map id="spacePig::GameDisplay::runGame" name="spacePig::GameDisplay::runGame">
+<area shape="rect" id="node2" href="$classspacePig_1_1Wave.html#a0d489c6d9e50a7bfafe0556f7ac2105e" title="The number of released projectiles so far. " alt="" coords="216,201,412,242"/>
+<area shape="rect" id="node3" href="$classspacePig_1_1GameDisplay.html#a68423786d54aaaa8133eb2208909fad1" title="handles user events including keyboard and mouse use. " alt="" coords="233,318,395,359"/>
+<area shape="rect" id="node5" href="$classspacePig_1_1Player.html#a717e84a029f3b286e40c079efd94f7fa" title="spacePig::Player::hasDied" alt="" coords="465,376,641,403"/>
+<area shape="rect" id="node8" href="$classspacePig_1_1GameDisplay.html#a39b1790beb7a6af9055b18de543fb8f6" title="begin the next wave and release a projectile " alt="" coords="471,427,634,469"/>
+<area shape="rect" id="node9" href="$classspacePig_1_1Wave.html#a36429be7f8ee8e8d71d2afa9f219d00f" title="release a number of projectiles from the waiting vector. " alt="" coords="709,464,876,491"/>
+<area shape="rect" id="node10" href="$classspacePig_1_1GameDisplay.html#a45e4b2b0736104d607fb723fef04e030" title="Refresh the display. " alt="" coords="471,143,634,185"/>
+<area shape="rect" id="node16" href="$classspacePig_1_1Wave.html#a4a310142a02672d0b8234f6bfbb1fe34" title="move each projectile that has been released by velocity * delta " alt="" coords="233,544,395,571"/>
+<area shape="rect" id="node17" href="$classspacePig_1_1Wave.html#a9fb06c3f05ebfcf92b632558a12e4f0a" title="All of the projectiles in this wave waiting to be released. " alt="" coords="221,595,407,621"/>
+<area shape="rect" id="node4" href="$classspacePig_1_1GameDisplay.html#aa0ab0298188e1b2257c54dd7f4fd765c" title="Close the graphical display and release the resources. " alt="" coords="940,158,1103,199"/>
+<area shape="rect" id="node6" href="$classspacePig_1_1Player.html#a5f99831ad3768b6906236b82bfb72e9f" title="spacePig::Player::move" alt="" coords="473,275,632,301"/>
+<area shape="rect" id="node7" href="$classspacePig_1_1Wave.html#a7b9c4d99414ecabfbbe8fe0dd9b495cd" title="resets the static wave count " alt="" coords="460,209,645,250"/>
+<area shape="rect" id="node11" href="$classspacePig_1_1GameDisplay.html#a0084a3173f80ea3475f1f00c2637b1a2" title="Clear the background to opaque white. " alt="" coords="711,158,874,199"/>
+<area shape="rect" id="node12" href="$classspacePig_1_1Wave.html#a7b7b6bfab9c99a2c39d7321c7d232da6" title="All of the projectiles that have been released and are not yet off screen. " alt="" coords="695,5,891,32"/>
+<area shape="rect" id="node13" href="$classspacePig_1_1Player.html#a80239d7a6b5030d5f447f40a9ac6090b" title="spacePig::Player::getX" alt="" coords="715,107,870,133"/>
+<area shape="rect" id="node14" href="$classspacePig_1_1Player.html#aa5eb399f7e5f96c536a405171dc6bc8c" title="spacePig::Player::getY" alt="" coords="715,224,871,251"/>
+<area shape="rect" id="node15" href="$classspacePig_1_1Player.html#a9150279160a7687904f745e3a0f8e773" title="spacePig::Player::getDiameter" alt="" coords="693,275,892,301"/>
+</map>
