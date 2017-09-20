@@ -8,3 +8,8 @@
 | + hit "e" to enable mouse movement, and play that way          |
 | + hit "x" to close the window and end the game                 |
 +----------------------------------------------------------------+
+
+Possible future improvements:
+ + More intelligence on bullet projection (i.e, patterns per wave, symmetric waves vs random direction/speed for each shot)
+ + Local and online scoreboard integration
+ + Haven't touched this in awhile, but iirc there could be some cleaning up in main.cpp
